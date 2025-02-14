@@ -1,0 +1,16 @@
+/* bugSolution.css */
+.background-image {
+  background-image: url('image.jpg');
+  background-size: cover; /* or contain, or specific dimensions */
+  background-repeat: no-repeat;
+  width: 300px; /* added width for better consistency */
+  height: 200px; /* added height for better consistency */
+}
+/* Alternative solution with explicit dimensions if cover/contain is not desired */
+/*.background-image {
+  background-image: url('image.jpg');
+  background-size: 300px 200px;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+}*/
