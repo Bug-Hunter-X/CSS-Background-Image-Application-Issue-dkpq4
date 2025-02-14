@@ -1,0 +1,1 @@
+The following CSS code snippet is causing unexpected behavior in some browsers.  The `background-image` property is not applying correctly. This is an uncommon bug because the syntax appears correct, but the issue stems from the interaction with the `background-size` property and specific image dimensions.
